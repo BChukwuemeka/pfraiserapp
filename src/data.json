@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "Help Johnny Green  get rid of a hole in the heart",
+      "image": "/images/Rectangle 64.png",
+      "desc": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown.",
+      "shrtdesc": "Hi i am Luke, Help me raise funds",
+      "category": "Health",
+      "amountraised": "#10000",
+      "alt": "Joker Movie",
+      "fundinggoal": "#5,020,000",
+      "location": "London, England",
+      "expirydate": "27th May 2021",
+      "ctaText": "More Details",
+      "rating": "9.2"
+    },
+
+    {
+      "id": 2,
+      "title": "Mpari’s Farm Business Needs Your Help",
+      "image": "/images/Rectangle 62.png",
+      "desc": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. They make sacrifices that bring them fame but with terrible consequences.",
+      "shrtdesc": "Hi i am Billy, Help me raise funds",
+      "category": "Health",
+      "amountraised": "#100,000",
+      "alt": "Joker Movie",
+      "fundinggoal": "#2,000,000",
+      "location": "Manchester, England",
+      "expirydate": "27th May 2021",
+      "ctaText": "More Details",
+      "rating": "7.9"
+    },
+
+    {
+      "id": 3,
+      "title": "Help for Medical Surgery",
+      "image": "/images/Rectangle 63.png",
+      "desc": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
+      "shrtdesc": "Hi i am Jude, Help me raise funds",
+      "alt": "Despicable Me Movie",
+      "category": "Health",
+      "amountraised": "#310,000",
+      "fundinggoal": "#22,000,000",
+      "location": "Abuja, Nigeria",
+      "expirydate": "27th May 2021",
+      "ctaText": "More Details",
+      "rating": "8.6"
+          },
+
+          {
+            "id": 4,
+            "title": "Mpari’s Farm Business Needs Your Help",
+            "image": "/images/Rectangle 62.png",
+            "desc": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. They make sacrifices that bring them fame but with terrible consequences.",
+            "shrtdesc": "Hi i am Billy, Help me raise funds",
+            "category": "Health",
+            "amountraised": "#100,000",
+            "alt": "Joker Movie",
+            "fundinggoal": "#2,000,000",
+            "location": "Manchester, England",
+            "expirydate": "27th May 2021",
+            "ctaText": "More Details",
+            "rating": "7.9"
+          },
+
+          {
+            "id": 3,
+            "title": "Help for Medical Surgery",
+            "image": "/images/Rectangle 63.png",
+            "desc": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
+            "shrtdesc": "Hi i am Jude, Help me raise funds",
+            "alt": "Despicable Me Movie",
+            "category": "Health",
+            "amountraised": "#310,000",
+            "fundinggoal": "#22,000,000",
+            "location": "Abuja, Nigeria",
+            "expirydate": "27th May 2021",
+            "ctaText": "More Details",
+            "rating": "8.6"
+                }
+          
+         
+
+  ]

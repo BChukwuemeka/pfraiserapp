@@ -1,0 +1,13 @@
+.flaticon-browser::before{
+    color: deepskyblue;
+    font-size: 80px;
+    font-weight: 100;
+    
+}
+
+.flaticon-speech-bubbles::before{
+    color: black;
+    font-size: 80px;
+    font-weight: 50;
+
+}

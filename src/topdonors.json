@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Mrs Naomi Lake",
+      "image": "/images/Rectangle 64.png",
+      "desc": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown.",
+      "totalamountdonated": "#10000",
+      "alt": "Joker Movie",
+      "totalcampaignfunded": "200",
+      "rating": "9.2"
+    },
+
+    {
+      "id": 2,
+      "name": "Mr Moses Ekiadolor",
+      "image": "/images/Rectangle 62.png",
+      "desc": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. They make sacrifices that bring them fame but with terrible consequences.",
+      "totalamountdonated": "#10000",
+      "alt": "Joker Movie",
+      "totalcampaignfunded": "300",
+      "rating": "7.9"
+    },
+
+    {
+      "id": 3,
+      "name": "Mrs Faraday Betty",
+      "image": "/images/Rectangle 63.png",
+      "desc": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
+      "alt": "Despicable Me Movie",
+      "totalamountdonated": "#10000",
+      "totalcampaignfunded": "400",
+      "rating": "8.6"
+          },
+
+          {
+            "id": 4,
+            "name": "Mr Johnson Bilal",
+            "image": "/images/Rectangle 62.png",
+            "desc": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. They make sacrifices that bring them fame but with terrible consequences.",
+            "totalamountdonated": "#10000",
+            "alt": "Joker Movie",
+            "totalcampaignfunded": "400",
+            "rating": "7.9"
+          },
+
+          {
+            "id": 5,
+            "name": "Doc Ben chukere",
+            "image": "/images/Rectangle 63.png",
+            "desc": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
+            "totalamountdonated": "#10000",
+            "alt": "Joker Movie",
+            "totalcampaignfunded": "100",
+            "rating": "8.6"
+                }
+          
+         
+
+  ]

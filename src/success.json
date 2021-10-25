@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Mrs Naomi Lake",
+      "image": "/images/Rectangle 64.png",
+      "story": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown.",
+      "shortstory": "Joker Movie"
+    },
+
+    {
+      "id": 2,
+      "name": "Mr Moses Ekiadolor",
+      "image": "/images/Rectangle 62.png",
+      "story": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. They make sacrifices that bring them fame but with terrible consequences.",
+      "shortstory": "Joker Movie"
+    },
+
+    {
+      "id": 3,
+      "name": "Mrs Faraday Betty",
+      "image": "/images/Rectangle 63.png",
+      "story": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
+      "shortstory": "Despicable Me Movie"
+      
+          },
+
+          {
+            "id": 4,
+            "name": "Mr Johnson Bilal",
+            "image": "/images/Rectangle 62.png",
+            "story": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. They make sacrifices that bring them fame but with terrible consequences.",
+            "shortstory": "Joker Movie"
+            
+          },
+
+          {
+            "id": 5,
+            "name": "Doc Ben chukere",
+            "image": "/images/Rectangle 63.png",
+            "story": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
+            "shortstory": "Joker Movie"
+            
+                }
+          
+         
+
+  ]
