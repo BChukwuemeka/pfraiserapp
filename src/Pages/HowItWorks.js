@@ -1,11 +1,14 @@
-import React from 'react'
-import Hero from '../Components/Hero'
+import Hero from "../Components/Hero"
+import How from "../Components/How"
+
+
 
 const HowItWorks = () => {
     return (
         <div>
-            <Hero/>
-            <h1>How It Works</h1>
+            
+           <Hero/> 
+           <How/>
         </div>
     )
 }

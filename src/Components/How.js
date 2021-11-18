@@ -1,3 +1,4 @@
+import LinkButton from "./LinkButton";
 
 
 const How = () => {
@@ -22,7 +23,9 @@ const How = () => {
                 everyone via any social 
                 media platform and also via phone calls and emails.</p>
                 
-                <button className="button">create campaign</button>
+               <LinkButton to='/Create'>
+                   <button className="button">create campaign</button>
+                   </LinkButton>
         </div>
         <div className="how-box">
     

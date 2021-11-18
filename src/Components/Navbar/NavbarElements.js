@@ -6,7 +6,7 @@ export const Nav = styled.nav`
 display: flex;
 justify-content: center ;
 align-items: center;
-background-color: #404295;
+background-color: #0a692a;
 top: 0;
 z-index:999;
 height: 60px;
@@ -44,6 +44,7 @@ cursor: pointer;
 font-size: 2rem;
 display: flex;
 align-items: center;
+width: 150px;
 margin:0 auto;
 }
 `
@@ -84,7 +85,7 @@ text-align: center;
     border-radius: 8px;
     opacity: 0.9;
     transition: all 0.5s ease;
-    background: #404295;
+    background: #0a692a;
 }
 
 `

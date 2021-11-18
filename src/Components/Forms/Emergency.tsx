@@ -53,7 +53,7 @@ export default function Emergency() {
             <p>{errors.message && "Please enter a valid message"}</p>
           
 
-            <input  type= 'submit'/>
+            <input className="submit"  type= 'submit'/>
             
         </form>
         <div className="addressBar">
@@ -65,10 +65,10 @@ export default function Emergency() {
                   Kasho Layout,Makurdi, Benue State</p>
                   </div>
           <div className="mobile"> 
-          <FontAwesomeIcon icon={faPhone} /><p>+234 703 515 4992</p>
+          <FontAwesomeIcon icon={faPhone} /><p className="padleft">+234 703 515 4992</p>
           </div>
           <div className="email"> 
-          <FontAwesomeIcon icon={faEnvelope} /><p>Livestars20@gmail.com</p>
+          <FontAwesomeIcon icon={faEnvelope} /><p className="padleft">Livestars20@gmail.com</p>
           </div>
         </div>
 

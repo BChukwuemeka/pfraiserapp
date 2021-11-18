@@ -1,6 +1,7 @@
 import {NavLink } from 'react-router-dom';
 import heroimg from './images/hero.jpg';
 import Logo from './images/Logo.png';
+import LinkButton from './LinkButton';
 
 const Hero = () => {
     return ( 
@@ -9,24 +10,29 @@ const Hero = () => {
         backgroundSize:'cover' }}>
              <div className="logoBar">
              <div >
-                    <NavLink to="/" >
-                      <img style={{width:"250px", maxHeight:"180px"}} src={Logo} alt="logo"/>
-                      
-                    </NavLink>
+                <NavLink to="/" >
+                    <img  className="logo" style={{width:"150px", maxHeight:"auto"}} src={Logo} alt="logo"/>
+                    
+                </NavLink>
                 </div>
-       <div className="nav-email" >info@peoplefundraiser.ng
+       <div className="nav-email" >
 
  </div>
 </div>
         <div className="hero" >
             <div className="save-lives">
-                <h1 className="color2">People's Fund Raiser</h1>
+                <h1 className="color2">CHEER BEQUEST LIMITED</h1>
                 <p>The crowd funding that got you covered. A few easy steps to get you started and have 
                     access to funds to as well as donating funds for urgent needs.
                 </p>
                 <div className="buttons">
-                <button className="button signUp">sign up</button>
-                <button className="button signIn">sign in</button>
+               <LinkButton to='/signUp'> 
+                        <button className="button signUp">sign up</button>
+                    </LinkButton>
+
+                <LinkButton to='/signIn'>
+                    <button className="button signIn">sign in</button>
+                </LinkButton>
             </div>
             </div>
            

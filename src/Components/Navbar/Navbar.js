@@ -18,13 +18,19 @@ const Navbar = () => {
            <Nav>
                <NavbarContainer>
                <NavLogo to="/" >
-                    <img style={{width:"250px", maxHeight:"180px"}} src={Logo} alt="logo"/>
+                    <img  className="mobileLogo"  style={{width:"90px", maxHeight:"auto"}} src={Logo} alt="logo"/>
                 </NavLogo>
                
                 <NavIcon onClick = {handleClick}>
                     {click ? <FaTimes /> : <FaBars />}
                 </NavIcon>
                 <NavMenu onClick= {handleClick} click={click}>
+                    <NavItem>
+                    <NavLink to="/" >
+                           Home
+                        </NavLink>
+                    </NavItem>
+
                     <NavItem>
                     <NavLink to="/Create" >
                             Create Campaign
@@ -45,7 +51,7 @@ const Navbar = () => {
                      </NavItem>
 
                     <NavItem>
-                        <NavLink to="/How" >
+                        <NavLink to="/HowItWorks" >
                             How It Works
                         </NavLink>
                     </NavItem>
